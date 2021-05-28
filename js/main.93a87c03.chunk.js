@@ -280,7 +280,7 @@
             var me = r(15),
                 ge = r(146),
                 fe = r(141),
-                xe = r.p + "static/media/logo.5fb28574.svg",
+                xe = r.p + "images/logo.png",
                 pe = r(38),
                 Oe = (r(110), "#e0e0e0"),
                 ve = "#cccccc",
@@ -583,7 +583,7 @@
                             children: ["2021 © ", Object(u.jsx)(Fe.a, {
                                 color: "inherit",
                                 href: pe.c.url,
-                                children: "百秀社区"
+                                children: "外卖券干饭人"
                             }), " - ", Object(u.jsx)(Fe.a, {
                                 color: "inherit",
                                 href: pe.a.url,
@@ -644,9 +644,10 @@
                                     children: Object(u.jsx)(m.a, {
                                         variant: "outlined",
                                         onClick: function() {
-                                            window.open("http://xt.aizhancloud.cn/down.html", "_blank", "width=300, height=400")
+                                            window.location = "https://www.baidu.com"
+                                            //window.open("https://www.baidu.com", "_blank", "width=300, height=400")
                                         },
-                                        children: "下载空调源码"
+                                        children: "查看更多游戏"
                                         
                                     })
                                 })
@@ -741,7 +742,7 @@
                 }(), Ge()
         },
         38: function(e) {
-            e.exports = JSON.parse('{"b":"抖音超火的便携小空调","a":{"url":"http://xt.aizhancloud.cn/","email":"admin@aizhancloud.cn","name":"便携小空调"},"c":{"type":"git","url":"https://bxiu.net/"}}')
+            e.exports = JSON.parse('{"b":"抖音超火的便携小空调","a":{"url":"","email":"","name":"便携小空调"},"c":{"type":"git","url":"https://www.baidu.com/"}}')
         }
     },
     [
