@@ -280,7 +280,7 @@
             var me = r(15),
                 ge = r(146),
                 fe = r(141),
-                xe = r.p + "images/logo.png",
+                // xe = r.p + "images/logo.png",
                 pe = r(38),
                 Oe = (r(110), "#e0e0e0"),
                 ve = "#cccccc",
@@ -361,11 +361,11 @@
                         title: pe.b,
                         target: "_blank",
                         rel: "noreferrer noopener",
-                        children: Object(u.jsx)("img", {
-                            className: e.className,
-                            src: xe,
-                            alt: "logo"
-                        })
+                        // children: Object(u.jsx)("img", {
+                        //     className: e.className,
+                        //     src: xe,
+                        //     alt: "logo"
+                        // })
                     })
                 })
             }
