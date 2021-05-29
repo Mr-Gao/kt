@@ -644,7 +644,7 @@
                                     children: Object(u.jsx)(m.a, {
                                         variant: "outlined",
                                         onClick: function() {
-                                            window.location = "https://www.baidu.com"
+                                            window.location = "https://mp.weixin.qq.com/s?__biz=MzkzNjI0MTcwMQ==&mid=2247483810&idx=1&sn=711f9f1715da18edd0edf79d7ce994c6&chksm=c2a0fee8f5d777fe8991b99e7e1c818cfbd1acfed8ddb8863f2119f7496f755dddf98d276d0b&token=1578748082&lang=zh_CN#rd"
                                             //window.open("https://www.baidu.com", "_blank", "width=300, height=400")
                                         },
                                         children: "查看更多游戏"
@@ -742,7 +742,7 @@
                 }(), Ge()
         },
         38: function(e) {
-            e.exports = JSON.parse('{"b":"抖音超火的便携小空调","a":{"url":"","email":"","name":"便携小空调"},"c":{"type":"git","url":"https://www.baidu.com/"}}')
+            e.exports = JSON.parse('{"b":"抖音超火的便携小空调","a":{"url":"","email":"","name":"便携小空调"},"c":{"type":"git","url":"https://mp.weixin.qq.com/s?__biz=MzkzNjI0MTcwMQ==&mid=2247483810&idx=1&sn=711f9f1715da18edd0edf79d7ce994c6&chksm=c2a0fee8f5d777fe8991b99e7e1c818cfbd1acfed8ddb8863f2119f7496f755dddf98d276d0b&token=1578748082&lang=zh_CN#rd"}}')
         }
     },
     [
